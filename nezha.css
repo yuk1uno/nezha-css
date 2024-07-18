@@ -10,7 +10,7 @@
     }
 
      .menu .container:first-child a:first-child img {
-        content:  url('https://raw.githubusercontent.com/yuk1uno/image-cloud/main/icon/_20240501223739-modified.png ');
+        content:  url('https://image.yuki.uno/i/2024/07/17/6696c1762cab0.png');
      }
 
      .nezha-primary-btn:hover {
@@ -283,7 +283,7 @@
         width: 100%;
         height: 100%;
         z-index: -1;
-        background: url('https://raw.githubusercontent.com/yuk1uno/image-cloud/main/bj/10001.jpg') center/cover no-repeat;
+        background: url('https://image.yuki.uno/i/2024/07/17/6696bfe5e5ea9.jpg') center/cover no-repeat;
     }
 
     /* 菜单颜色 */
